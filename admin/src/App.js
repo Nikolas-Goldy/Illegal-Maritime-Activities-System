@@ -16,6 +16,7 @@ const App = () => {
   return (
     <div className="app">
       <h1>Admin Panel</h1>
+      <h1>For Admin Only</h1>
       <UsersComparison />
     </div>
   );
